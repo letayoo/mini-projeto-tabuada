@@ -9,13 +9,13 @@ Ideal para treinar conceitos como estrutura de classes, validação de dados, tr
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/letayoo/tabuada-python.git
-cd tabuada-python
+git clone https://github.com/letayoo/mini-projeto-tabuada.git
+cd mini-projeto-tabuada
 ```
 
 2. Execute o programa com Python 3:
 ```bash
-python tabuada.py
+TabuadaPython.py
 ```
 
 3. Digite um número entre 1 e 10 quando solicitado no terminal.
